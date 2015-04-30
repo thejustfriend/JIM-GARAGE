@@ -28,7 +28,6 @@ ol, ul {
 #progress {
   height: 1.5%;
   bottom: 0;
-  z-index: 200;
 }
 
 h1 {
@@ -81,4 +80,11 @@ h1 {
   background-position: center top;
   background-size: cover;
   display: block;
+}
+
+#end {
+  width: 100%;
+  height: 100%;
+  background-color: #4f262d;
+  color: #FFF;
 }
